@@ -17,7 +17,7 @@ Depot::Application.configure do
     user_name:
     "gervelgiva",
     password:
-    "vdferx3x3",
+    "thisisnotthepassword",
     enable_starttls_auto: true
   }
 end
